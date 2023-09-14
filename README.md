@@ -36,7 +36,7 @@
         <br>ACG
       </a>
     </td>
-    <td align="center" width="96">
+    <td align="center">
       <a href="https://naxonlabs.com">
         <img src="./images/naxon_labs.png" height="30" alt="Naxon Labs" />
         <br>NaxonLabs
