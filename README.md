@@ -36,6 +36,12 @@
         <br>ACG
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="https://bluerivertechnology.com/">
+        <img src="./images/blue_river.png" height="30" alt="BlueRiver Technology" />
+        <br>BlueRiver
+      </a>
+    </td>
     <td align="center">
       <a href="https://naxonlabs.com">
         <img src="./images/naxon_labs.png" height="30" alt="Naxon Labs" />
