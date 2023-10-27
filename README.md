@@ -1,9 +1,7 @@
 <h1 align="left" id="title">:wave: Hello there! I'm Franco Bottero</h1>
 
 <p align="left">
-  <a href="https://github.com/francobottero/francobottero">
-    <img src="https://komarev.com/ghpvc/?username=francobottero&color=red" alt="page views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=francobottero&color=red" alt="page views" />
   <a href="https://github.com/francobottero?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/francobottero?color=blue&logo=github">
   </a>
