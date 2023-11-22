@@ -8,7 +8,6 @@
 </p>
 
 - :office: &nbsp; I'm currently working as a Technical Lead at [Qubika](https://qubika.com/)
-- :uruguay: &nbsp; Very proud to be co-organizing Ruby Meetups in Montevideo. You can find us at [ruby.uy](https://ruby.uy/)
 - :computer: &nbsp; You can reach me on [LinkedIn](https://www.linkedin.com/in/francobottero/)
 
 
