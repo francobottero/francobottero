@@ -45,6 +45,12 @@
         <br>NaxonLabs
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="https://www.clubup.com/">
+        <img src="./images/clubup.svg" height="30" alt="ClubUp" />
+        <br>ClubUp
+      </a>
+    </td>
   </tr>
 </table>
 
