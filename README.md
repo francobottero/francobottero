@@ -51,6 +51,12 @@
         <br>ClubUp
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="https://springoakscapital.com/">
+        <img src="./images/soc.svg" height="30" alt="SpringOaks Capital" />
+        <br>SOC
+      </a>
+    </td>
   </tr>
 </table>
 
