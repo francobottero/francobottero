@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- :office: &nbsp; I'm currently working as a Founding Engineer at [Centinel](https://www.centinel.finance/)
+- :office: &nbsp; I'm currently working as a Senior Software Engineer at [FlowSpace](https://flow.space/)
 - :computer: &nbsp; You can reach me on [LinkedIn](https://www.linkedin.com/in/francobottero/)
 
 
